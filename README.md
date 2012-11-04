@@ -3,7 +3,10 @@
 This iOS module creates a native double slider UI View component for Titanium Mobile.  Handy for selecting a range of values (ie, hours of operation, financial budget ranges, etc).  This module has facilities for customizing the look and feel during touch events.
 
 
-![Status Bar Overlay Example](https://www.evernote.com/shard/s14/sh/1db3300d-d692-46a6-877a-74c7a5fe9f76/e5b08a2d78f92c5dbeaae7303c8e7a2a/res/d58da191-75ac-4a50-bae1-0302bb694c9f/skitch.png?noteKey=e5b08a2d78f92c5dbeaae7303c8e7a2a&suffix=res%2Fd58da191-75ac-4a50-bae1-0302bb694c9f%2Fskitch.png&noteGuid=1db3300d-d692-46a6-877a-74c7a5fe9f76)
+![Status Bar Overlay Example](https://www.evernote.com/shard/s14/sh/62c41a54-9dab-4c39-9909-fec3cf395376/e4245b0f76765456ee72ae862abdc720/res/455d5bd8-30b2-43b8-92d3-918090696398/skitch.png)
+
+#### Video: [https://vimeo.com/52779198](https://vimeo.com/52779198)
+#### Buy the module: [marketplace.appcelerator.com/apps/3971?1035637343](marketplace.appcelerator.com/apps/3971?1035637343)
 
 
 ## Usage
@@ -45,6 +48,8 @@ Curtis Duhn: [@cduhn](https://twitter.com/cduhn)
 
 Terry Martin: [@tzmartin](http://twitter.com/tzmartin)
 
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=tzmartin&url=http://github.com/tzmartin/Ti-Double-Slider&title=Ti-Double-Slider&language=&tags=github&category=software)
+
 ## License
 
 The MIT License
@@ -72,3 +77,4 @@ ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+![Hi](https://c.statcounter.com/8431486/0/fecc5033/1/)
