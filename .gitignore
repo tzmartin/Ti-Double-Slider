@@ -2,3 +2,7 @@ tmp
 bin
 build
 .DS_Store
+*.zip
+tidoubleslider.xcodeproj/project.xcworkspace/xcshareddata/
+tidoubleslider.xcodeproj/project.xcworkspace/xcuserdata/
+tidoubleslider.xcodeproj/xcuserdata/
