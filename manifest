@@ -2,11 +2,11 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 0.1
+version: 0.2
 description: UI double slider component for iOS on Titanium Mobile
 author: Curtis Duhn
 license: MIT
-copyright: Copyright (c) 2011 by Semantic Press, Inc.
+copyright: Copyright (c) 2015 by Semantic Press, Inc.
 
 
 # these should not be edited

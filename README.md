@@ -2,14 +2,19 @@
 
 This iOS module creates a native double slider UI View component for Titanium Mobile.  Handy for selecting a range of values (ie, hours of operation, financial budget ranges, etc).  This module has facilities for customizing the look and feel during touch events.
 
-
 ![Status Bar Overlay Example](https://www.evernote.com/shard/s14/sh/62c41a54-9dab-4c39-9909-fec3cf395376/e4245b0f76765456ee72ae862abdc720/res/455d5bd8-30b2-43b8-92d3-918090696398/skitch.png)
 
 #### Video: [https://vimeo.com/52779198](https://vimeo.com/52779198)
-#### Buy the module: [marketplace.appcelerator.com/apps/3971?1035637343](marketplace.appcelerator.com/apps/3971?1035637343)
 
+Current version: **0.2** - Titanium SDK: 3.5.0.GA (64 bit)
+
+<a href="https://flattr.com/submit/auto?user_id=tzmartin&url=https%3A%2F%2Fgithub.com%2Ftzmartin%2FTi-Double-Slider" target="_blank"><img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0"></a>
 
 ## Usage
+
+1. Download the compiled module from the [`/dist`](https://github.com/tzmartin/Ti-Double-Slider/tree/master/dist)folder.
+2. Add the module to `tiapp.xml`
+3. Instantiate the module in JavaScript:
 
 ````
 var tidoubleslider = require('com.semanticpress.tidoubleslider');
@@ -44,17 +49,14 @@ win.add(dSlider);
 	
 ## Authors
 
-Curtis Duhn: [@cduhn](https://twitter.com/cduhn)
-
-Terry Martin: [@tzmartin](http://twitter.com/tzmartin)
-
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=tzmartin&url=http://github.com/tzmartin/Ti-Double-Slider&title=Ti-Double-Slider&language=&tags=github&category=software)
+- Curtis Duhn: [@cduhn](https://twitter.com/cduhn)
+- TZ Martin: [@tzmartin](http://twitter.com/tzmartin)
 
 ## License
 
 The MIT License
 
-Copyright (c) 2011 Semantic Press, Inc.
+Copyright (c) 2015 Semantic Press, Inc.
 
 Permission is hereby granted, free of charge, 
 to any person obtaining a copy of this software and 
